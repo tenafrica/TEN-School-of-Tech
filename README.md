@@ -1,1 +1,1 @@
-# TEN-School-of-Tech
+# TEN | School of Tech

@@ -39,7 +39,7 @@ Students collaborate to plan, design, configure, simulate and deploy a multi-ven
 
 <hr>
 
-### Entrepreneurship
+### Our Entrepreneurship and Leadership
 
 #### Entrepreneurship 
 Ideation, Business Plan, Marketing, Presentation Skills, Product Development, Negotiation, Persuasion, Budgeting, Financial Management

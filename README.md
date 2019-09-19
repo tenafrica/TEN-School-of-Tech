@@ -1,4 +1,6 @@
-# About TEN | School of Tech
+# TEN | School of Tech
+
+**About**
 
 **We Retool and Upskill Tech Talent**
 

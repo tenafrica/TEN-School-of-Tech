@@ -1,6 +1,6 @@
 # TEN | School of Tech
 
-### ABOUT US
+## ABOUT US
 
 <hr>
 
@@ -17,11 +17,11 @@ TEN retools graduate students, upskills IT talent and stimulates innovation acro
 **Industry Partners**
 TEN collorates with the industry to improve the process of matching skilled & qualified talents with employers (Companies) which enable us to link our alumni for placement.
 
-### OUR PROGRAMS
+## OUR PROGRAMS
 <hr>
 Launch a carrier in tech by acquiring cutting-edge hands-on industry skills required in todays workforce by attending one of our full-stack engineering programs curated and facilitated by experienced mentors who are expert engineers in their respective fields.
 
-## Software Development
+### Software Development
 
 You don’t need coding experience or a college degree, just curiosity and determination. Our full stack software development course is an in-depth hands-on program delivered through peer-learning, collaboration and mentorship. Students dive deep into the fundamentals of software and web development a domain of computer science and thereby enabling them to launch a carrier in tech as full-stack software developers after completion.
 

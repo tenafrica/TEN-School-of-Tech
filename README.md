@@ -37,4 +37,12 @@ Through a highly intensive practical hands-on real and virtual lab environment, 
 
 Students collaborate to plan, design, configure, simulate and deploy a multi-vendor scalable & resilient Internet network infrastructure with support from experts mentors who guide them down the path to a new career in network engineering.
 
+<hr>
 
+### Entrepreneurship
+
+# Entrepreneurship 
+Ideation, Business Plan, Marketing, Presentation Skills, Product Development, Negotiation, Persuasion, Budgeting, Financial Management
+
+# Leadership  
+Critical Thinking, Communication, Teamwork, Goal Setting, Problem Solving, Respect, Equality
